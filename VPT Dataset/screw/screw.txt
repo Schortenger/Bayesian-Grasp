@@ -1,0 +1,152 @@
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:08:57.png#0.9620199622225434
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:12:10.png#0.9770436987951856
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:13:13.png#0.9857082322333024
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:14:17.png#0.8843709486555802
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:16:16.png#0.9746644334214447
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:17:27.png#0.9704116198880048
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:18:33.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:23:10.png#0.7774409446376475
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:24:45.png#0.8718937140100897
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:26:55.png#0.6616782256245779
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:27:59.png#0.8917438171314312
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 15:28:53.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 16:14:53.png#0.9519665164429321
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 16:15:49.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 16:16:13.png#0.6628139435792801
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/img  2019-04-06 16:17:36.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2713161.02922691529  2019-04-06 16:34:00.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:231309-0.978174311852  2019-04-06 16:34:30.png#0.9861941834006234
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:255150-0.649267616757  2019-04-06 16:35:22.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3052340.468931562843  2019-04-06 16:36:29.png#0.937295032301667
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:265159-0.419068168946  2019-04-06 16:37:32.png#0.9269248909842409
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:285169-0.54202215637  2019-04-06 16:38:50.png#0.9638717431642765
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:283239-0.839407967109  2019-04-06 16:40:28.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2423180.798351606966  2019-04-06 16:47:43.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:241295-0.921552441629  2019-04-06 16:49:17.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:263241-1.15607262069  2019-04-06 16:50:28.png#0.9657309460637961
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2723531.48236599362  2019-04-06 16:51:48.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:277197-0.591290278231  2019-04-06 16:52:14.png#0.3
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:197274-1.47176665132  2019-04-06 16:53:12.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2892030.431553599078  2019-04-06 16:53:46.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2211790.277542048086  2019-04-06 16:55:42.png#0.9430169797964378
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2583120.831103033324  2019-04-06 16:58:47.png#0.9163840778685455
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:225169-0.859110053877  2019-04-06 16:59:50.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2611590.25911363289  2019-04-06 17:00:17.png#0.9201484488292158
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:207155-0.797609382092  2019-04-06 17:01:33.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:242173-0.817346371555  2019-04-06 17:02:22.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3051851.01320453746  2019-04-06 17:02:58.png#0.9364213162443596
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:189203-0.994272672335  2019-04-06 17:06:00.png#0.9515147758344384
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:311203-1.44194201755  2019-04-06 17:09:07.png#0.3
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2752710.312377028855  2019-04-06 17:10:08.png#0.9390477154602807
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:264225-0.269863927639  2019-04-06 17:11:09.png#0.9155521419260628
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1773001.04100327737  2019-04-06 17:16:34.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:223201-0.626547912608  2019-04-06 17:18:01.png#0.9416899204413754
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:299252-0.278967225584  2019-04-06 17:19:24.png#0.9044823487832498
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:328224-0.507009588591  2019-04-06 17:20:55.png#0.8741317837892826
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:242164-0.803642452511  2019-04-06 17:22:26.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1953111.28599358437  2019-04-06 17:26:57.png#0.9325111465553706
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:276252-0.661915340341  2019-04-06 17:30:34.png#0.1
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:204280-0.993550430675  2019-04-06 17:31:50.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:395357-1.34285083485  2019-04-06 17:33:26.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:313277-0.854456374641  2019-04-06 17:33:59.png#0.9052921229850935
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:291261-0.6966650402  2019-04-06 17:35:18.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2992681.07272048993  2019-04-06 17:36:10.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:352243-0.300658559831  2019-04-06 17:36:54.png#0.8968697330176214
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:281231-0.563621322715  2019-04-06 17:38:11.png#0.9620199622225434
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:251200-0.502519326513  2019-04-06 17:40:16.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2882680.932489687206  2019-04-06 17:41:14.png#0.9394869827727916
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:322197-0.380021919954  2019-04-06 17:42:33.png#0.8558851613813048
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:238182-0.982261129973  2019-04-06 17:44:00.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:269216-0.34976185165  2019-04-06 17:45:29.png#0.8371770281202221
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:287215-0.972482883263  2019-04-06 17:46:57.png#0.943903900380975
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2952090.42755238234  2019-04-06 21:06:35.png#0.9704116198880048
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:310247-0.801136578625  2019-04-06 21:09:21.png#0.9515147758344384
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:273194-1.05022603087  2019-04-06 21:11:04.png#0.9515147758344384
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2892280.905916070525  2019-04-06 21:12:20.png#0.8484894992334364
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:252194-0.738689375323  2019-04-06 21:13:32.png#0.9474693744645155
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2812541.02620273647  2019-04-06 21:14:38.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3132250.635538913982  2019-04-06 21:15:21.png#0.1
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:197230-1.03414831077  2019-04-06 21:17:16.png#0.9620199622225434
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:261170-0.550701178637  2019-04-06 21:18:29.png#0.7639099901006039
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:222158-0.927564681294  2019-04-06 21:46:00.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2943190.403733357557  2019-04-06 21:46:30.png#0.8956809079477919
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2942130.792625338516  2019-04-06 21:47:46.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:299264-0.525904883087  2019-04-06 21:48:17.png#0.8778918707278627
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:279222-0.109168064794  2019-04-06 21:49:43.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:389268-0.802472495107  2019-04-06 21:50:13.png#0.8334884054292372
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:248185-1.13982987454  2019-04-06 21:51:25.png#0.9430169797964378
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3042240.448241987215  2019-04-06 21:52:24.png#0.9243710109401033
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2612520.855519867668  2019-04-06 21:53:23.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2682280.917483124925  2019-04-06 21:53:50.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:367312-0.746811225562  2019-04-06 21:54:21.png#0.9620199622225434
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:252176-0.779325172581  2019-04-06 21:55:21.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:288196-0.209259652679  2019-04-06 21:55:47.png#0.9560525747725452
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:274228-0.752611908918  2019-04-06 21:56:47.png#0.6637937637618447
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:247175-0.697266952773  2019-04-06 21:57:47.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2332760.718684606347  2019-04-06 21:59:39.png#0.3
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2922950.858848790143  2019-04-06 22:01:16.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:381346-0.795869600251  2019-04-06 22:01:45.png#0.9592561422007286
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:257229-1.03777396902  2019-04-06 22:02:37.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3932721.45891355753  2019-04-06 22:03:04.png#0.9488137982152174
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:306222-0.385383485748  2019-04-06 22:04:04.png#0.9479170676482641
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:315236-0.806871139245  2019-04-06 22:05:17.png#0.9643358469206436
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:278190-0.90439550438  2019-04-06 22:06:17.png#0.9501622612931329
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2872421.06837139296  2019-04-06 22:08:08.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3582880.0  2019-04-06 22:08:40.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:355202-0.0698009542062  2019-04-06 22:09:40.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:323213-0.937063322866  2019-04-06 22:10:59.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2622750.879590640537  2019-04-06 22:11:46.png#0.9333770344477446
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:295192-1.23306843696  2019-04-06 22:13:26.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:213207-0.91215015422  2019-04-06 22:16:13.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3042990.223051666319  2019-04-06 22:17:24.png#0.9089562157769298
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:292242-0.459212980458  2019-04-06 22:22:19.png#0.1
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2572471.35395653561  2019-04-06 22:23:53.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:318296-0.907553650786  2019-04-06 22:24:26.png#0.9408074233917081
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2672440.858760861597  2019-04-06 22:25:45.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:349335-0.872190701136  2019-04-06 22:26:19.png#0.9690024997653648
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:306202-0.335360505427  2019-04-06 22:28:03.png#0.8519918769278105
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:274195-0.724799892025  2019-04-06 22:29:41.png#0.9634081032796911
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:259206-0.634663679961  2019-04-06 22:31:12.png#0.8429580369480101
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:282237-0.387457556052  2019-04-06 22:32:18.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:203243-0.908456241947  2019-04-07 18:54:21.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2031901.37050738498  2019-04-07 18:55:16.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1961871.09006926753  2019-04-07 18:55:45.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:223167-0.989734677183  2019-04-07 18:56:09.png#0.8921357568857782
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:279185-0.0826067928007  2019-04-07 18:57:03.png#0.7937144680822616
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:270214-0.768080005991  2019-04-07 18:58:00.png#0.3
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1542521.35687778181  2019-04-07 18:59:44.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2042210.699764400934  2019-04-07 19:00:15.png#0.943903900380975
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:256201-0.621832527932  2019-04-07 19:01:10.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:223244-1.13445657777  2019-04-07 19:02:28.png#0.7402327147717112
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:262239-1.39801109973  2019-04-07 19:03:23.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:279239-1.26543280229  2019-04-07 19:03:56.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3542301.40109966055  2019-04-07 19:04:25.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1952221.23744600953  2019-04-07 19:05:44.png#0.9126534342458412
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:290236-0.955393952597  2019-04-07 19:06:45.png#0.8941013455468851
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:260174-0.324971038905  2019-04-07 19:07:41.png#0.3
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3072900.0  2019-04-07 19:09:12.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:296264-1.2735763984  2019-04-07 19:12:43.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:235240-0.940037932794  2019-04-07 19:13:17.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:3082430.740302486677  2019-04-07 19:13:50.png#0.9359851130660547
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:304224-0.368161763805  2019-04-07 19:14:57.png#0.1
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:154299-1.29815468021  2019-04-07 19:18:02.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:240289-1.03462462037  2019-04-07 19:18:23.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1112121.09979523243  2019-04-07 19:19:07.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1922131.25979451759  2019-04-07 19:20:43.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:234245-1.17828457943  2019-04-07 19:21:06.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:235241-1.04676022549  2019-04-07 19:21:33.png#0.910595316656329
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:255183-0.514250547608  2019-04-07 19:22:46.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:256287-1.08440765621  2019-04-07 19:23:32.png#0.9081391207128049
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:257189-0.774689821265  2019-04-07 19:24:31.png#0.9784769787365233
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:255206-0.843887317093  2019-04-07 19:25:35.png#0.4
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:1822351.03834402391  2019-04-07 19:26:49.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:200219-1.05546877834  2019-04-07 19:27:24.png#0.9881428548789546
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2722200.787165090082  2019-04-07 19:28:19.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:2372610.832485436531  2019-04-07 19:31:54.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:395323-1.54245527321  2019-04-07 19:32:32.png#0.8169069185492746
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:277186-0.573731398271  2019-04-07 19:33:45.png#0.2
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:248206-0.998426416711  2019-04-07 19:34:48.png#0.9483652087491177
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:276210-0.717481546264  2019-04-07 19:36:06.png#0.9408074233917081
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:276229-0.661729578287  2019-04-07 19:37:13.png#0.937295032301667
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:281240-1.3224807906  2019-04-07 19:38:31.png#0
+/home/schortenger/Desktop/IROS/tactile_prior/data/datapath/screw/train_dataset/x y theta:4052621.10590174351  2019-04-07 19:38:58.png#0.4
