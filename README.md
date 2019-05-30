@@ -6,7 +6,7 @@ This is a Pytorch implementation of learning prior tactile knowledge to achieve 
 
 ### Video demo
 
-<video src="/media/schortenger/526664CE6664B47F/论文/论文/ICRA 2019/PPT与海报/视频制作素材/demo including generalization(1080p)_youtube.mp4"></video>
+The video demo is uploaded to : https://www.youtube.com/watch?v=9Xe6YzANTQo&t=9s
 
 ### Prerequisites
 
