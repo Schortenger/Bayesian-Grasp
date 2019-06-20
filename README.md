@@ -42,20 +42,45 @@ This implementation requires the following dependencies (tested on Ubuntu 16.04.
 
 ### Dataset
 
-The dataset is collected after 1500 grasps with 5 objects, and the dataset is uploaded:
+The tactile dataset is collected after 1500 grasps with 5 objects, and the dataset is uploaded as VPT dataset.
 
 ### Model
 
-traindataset.py is the file to train VGG16-Net and ResNet-50
+- #### Hardware Configuration
 
-```
-cd tactile_prior
-python traindataset.py
-```
+1. The first step is to collect the visual image and tactile data. The tactile sensor we used is TakkStrip, and [here](http://www.takktile.com/documentation)  is the tutorial of reading data from tactile sensor. 
+2. In addition, we use Realsense D435 to get the visual image, and [here](https://software.intel.com/en-us/realsense/d400/get-started)  is the tutorial of configuring the camera.
+3. Besides, the robotic hand we used is RObotiq 2-finger gripper, and the tutorial can be found [here](https://github.com/HknyYtbz/ur_cirak) .
 
-Bayesiangrasp.py is the file to implement stable grasp based on trained network
+- #### After ensuring the hardware has been configured successfully, the following steps can be made.
 
-```
-python Bayesiangrasp.py
-```
+1. collect the tactile data and visual image through the self-supervised grasp process. And VPT dataset is built in this process.
 
+   ```
+   python vis-tac-fusion.py
+   ```
+
+   
+
+2. And then, we use VPT dataset to train VGG16-Net and ResNet-50 network.
+
+   Attention: the label of VPT dataset is continuous, which can be classified into different categories based on different methods presented in this paper.
+
+   ```
+   cd tactile_prior
+   python traindataset.py
+   ```
+
+   
+
+3. At last, we use UR5 to implement stable grasp based on trained network.
+
+   ```
+   python Bayesiangrasp.py
+   ```
+
+   *P.S.*
+
+    *camera3.py* is the file about camera calibration.
+
+    *ur5.py* and *ur5_manipulator_node.py* are the control code of UR5 and robotiq gripper.
